@@ -1,4 +1,4 @@
-# 🌌 Opa! Eu sou o Eugênio ✨
+# 🌌 Opa! Dn aqui ✨
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Dark+Mode+Forever+🖤;Desenvolvedor+Front-end+Júnior;16+anos+de+código+e+café" alt="Typing SVG" />
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-| **Idade**       | **Foco**               | **Estilo**          | **Status**          |
-|-----------------|------------------------|---------------------|---------------------|
-| 16 anos         | Front-end Web          | Dark Mode Obsessivo | Aprendendo Sempre   |
+| **Idade**       | **Foco**              | **Status**          |
+|-----------------|-----------------------|---------------------|
+| 16 anos         | Front-end Web         | Aprendendo Sempre   |
 
 </div>
 
